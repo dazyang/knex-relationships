@@ -39,7 +39,7 @@ As a user I want to view a list of all blog posts for each user so that I can se
 
 As a user I want to view a single blog post so that I can read it.
 
-#Stretch
+# Stretch
 
 As a user I want to add another user to my favourites list so that I can easily view their profile pages.
 
