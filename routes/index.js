@@ -13,4 +13,8 @@ router.get('/', function (req, res) {
     })
 })
 
+router.get('/profiles/:id', (req, res) =>{
+  
+})
+
 module.exports = router
