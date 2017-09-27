@@ -1,4 +1,4 @@
-# Boilerplate: Knex.js
+# Knex Relationships
 
 User stories for RDBMS practice.
 
