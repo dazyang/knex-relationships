@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Boilerplate: Knex.js
 
 Phase 1 boilerplate project with:
@@ -22,3 +23,6 @@ npm run dev
 ```
 
 Be sure to check out the other npm scripts too.
+=======
+# knex-relationships
+>>>>>>> 8ff96501109cad53712dc87c367cb1702d310e2d
